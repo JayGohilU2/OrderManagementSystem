@@ -20,12 +20,4 @@ public class DefaultController {
     public String login() {
         return "/login";
     }
-
-
-    public static class User {
-
-        private static String username;
-
-
-    }
 }
